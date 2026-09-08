@@ -157,8 +157,8 @@
 </style>
 <nav class="navbar">
             <ul class="nav-links">
-                <li><a href="nadfi.html.html">Home</a></li>
-                <li><a href="about.html.html">About Us</a></li>
+                <li><a href="nadfi">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
                 <li><a href="goals.html.html">Goals</a></li>
                 <li><a href="decisions.html.html">Decisions</a></li>
             </ul>
